@@ -489,21 +489,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 518454149423808107, guid: 9073dcee5b0e35a4997645114ed6eb81,
-        type: 3}
-      propertyPath: rootMotionScaleX
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 518454149423808107, guid: 9073dcee5b0e35a4997645114ed6eb81,
-        type: 3}
-      propertyPath: rootMotionScaleY
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 518454149423808107, guid: 9073dcee5b0e35a4997645114ed6eb81,
-        type: 3}
-      propertyPath: animationTrackFlags
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2881143389454142838, guid: 9073dcee5b0e35a4997645114ed6eb81,
         type: 3}
       propertyPath: useRootMotion
